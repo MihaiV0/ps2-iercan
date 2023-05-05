@@ -1,0 +1,21 @@
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\bin\Debug\net6.0-windows\Incercare proiect.exe
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\bin\Debug\net6.0-windows\Incercare proiect.deps.json
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\bin\Debug\net6.0-windows\Incercare proiect.runtimeconfig.json
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\bin\Debug\net6.0-windows\Incercare proiect.dll
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\bin\Debug\net6.0-windows\Incercare proiect.pdb
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect.csproj.AssemblyReference.cache
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\App.g.cs
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect_MarkupCompile.cache
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect_MarkupCompile.lref
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect.g.resources
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect.AssemblyInfoInputs.cache
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect.AssemblyInfo.cs
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect.csproj.CoreCompileInputs.cache
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect.dll
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\refint\Incercare proiect.dll
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect.pdb
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\Incercare proiect.genruntimeconfig.cache
+D:\Faculta\AN3\sem2\PS Iercan\Incercare proiect\Incercare proiect\obj\Debug\net6.0-windows\ref\Incercare proiect.dll
