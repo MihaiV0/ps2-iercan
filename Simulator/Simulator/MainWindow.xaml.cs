@@ -32,7 +32,7 @@ namespace Simulator
         public MainWindow()
         {
             InitializeComponent();
-            string webApiUrl = "http://localhost:5157/api/simulator";
+            string webApiUrl = "http://www.proiect.ro";
             Process.Start(new ProcessStartInfo { FileName = webApiUrl, UseShellExecute = true });
 
         }

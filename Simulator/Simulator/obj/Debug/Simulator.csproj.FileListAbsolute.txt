@@ -41,3 +41,46 @@ C:\Users\andre\source\repos\Simulator\Simulator\obj\Debug\Simulator.csproj.CoreC
 C:\Users\andre\source\repos\Simulator\Simulator\obj\Debug\Simulator.csproj.CopyComplete
 C:\Users\andre\source\repos\Simulator\Simulator\obj\Debug\Simulator.exe
 C:\Users\andre\source\repos\Simulator\Simulator\obj\Debug\Simulator.pdb
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\Simulator.exe.config
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\Simulator.exe
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\Simulator.pdb
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\Comm.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\DataModel.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Buffers.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Memory.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Net.Http.Json.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Numerics.Vectors.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Text.Encodings.Web.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Text.Json.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.ValueTuple.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\Newtonsoft.Json.dll
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\Comm.pdb
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\DataModel.pdb
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Buffers.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Memory.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Net.Http.Json.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Numerics.Vectors.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Text.Encodings.Web.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Text.Json.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\System.ValueTuple.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\bin\Debug\Newtonsoft.Json.xml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator.csproj.AssemblyReference.cache
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator.csproj.SuggestedBindingRedirects.cache
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\MainWindow.g.cs
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\App.g.cs
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.cache
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator_MarkupCompile.lref
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\MainWindow.baml
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator.g.resources
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator.Properties.Resources.resources
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator.csproj.GenerateResource.cache
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator.csproj.CoreCompileInputs.cache
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator.csproj.CopyComplete
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator.exe
+D:\Faculta\AN3\sem2\PS Iercan\git2\ps2-iercan\Simulator\Simulator\obj\Debug\Simulator.pdb

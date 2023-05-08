@@ -87,9 +87,9 @@ public class ViewModel : INotifyPropertyChanged
 
     public ViewModel()
     {
-        _httpClient = new HttpClient { BaseAddress = new Uri("http://localhost:5157/api/") };
-        _sender = new Sender("127.0.0.1", 5157); // Alege un port potrivit pentru tine.
-        _receiver = new Receiver(5157);
+        _httpClient = new HttpClient { BaseAddress = new Uri("http://www.proiect.ro") };
+        _sender = new Sender("192.168.1.26", 80); // Alege un port potrivit pentru tine.
+        _receiver = new Receiver(80);
 
     }
 
@@ -106,7 +106,7 @@ public class ViewModel : INotifyPropertyChanged
         };
 
         using HttpClient client = new HttpClient();
-        client.BaseAddress = new Uri("http://localhost:5157");
+        client.BaseAddress = new Uri("http://www.proiect.ro");
         client.DefaultRequestHeaders.Accept.Clear();
         client.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("application/json"));
 

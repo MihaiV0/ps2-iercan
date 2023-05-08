@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Web API</title>
+    <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        td,
+        th {
+            border: 1px solid black;
+            padding: 0.5rem;
+        }
+
+        form {
+            display: flex;
+            flex-direction: column;
+            margin-top: 1rem;
+        }
+
+        label {
+            margin-bottom: 0.5rem;
+        }
+
+        input[type="submit"] {
+            margin-top: 0.5rem;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Web API Example</h1>
+    <table id="stamp-table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Value</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+    </table>
+    <form id="add-stamp-form">
+        <label for="name-input">Name:</label>
+        <input type="text" id="name-input" name="name">
+        <label for="value-input">Value:</label>
+        <input type="number" id="value-input" name="value">
+        <input type="submit" value="Add Stamp">
+    </form>
+
+    <script>
+        const stampTable = document.getElementById('stamp-table').querySelector('tbody');
+        const addStampForm = document.getElementById('add-stamp-form');
+
+        // Load stamps from API and render them in table
+        function loadStamps() {
+            fetch('http://localhost:5157/api/Simulator')
+                .then(response => response.json())
+                .then(stamps => {
+                    stampTable.innerHTML = '';
+                    for (const stamp of stamps) {
+                        const row = stampTable.insertRow();
+                        row.insertCell().textContent = stamp.name;
+                        row.insertCell().textContent = stamp.value;
+                    }
+                })
+                .catch(error => console.error(error));
+        }
+
+        // Add a new stamp to the API and reload table
+        function addStamp(event) {
+            event.preventDefault();
+            const stamp = { name: addStampForm.name.value, value: parseFloat(addStampForm.value.value) };
+            fetch('http://localhost:5157/api/Simulator', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(stamp)
+            })
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    addStampForm.reset();
+                    loadStamps();
+                })
+                .catch(error => console.error(error));
+        }
+
+        // Register form submit handler
+        addStampForm.addEventListener('submit', addStamp);
+
+        // Load stamps on page load
+        loadStamps();
+    </script>
+</body>
+
+</html>
