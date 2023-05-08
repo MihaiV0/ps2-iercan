@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\Simulator\Comm\bin\Debug\Comm.dll
+C:\Users\andre\source\repos\Simulator\Comm\bin\Debug\Comm.pdb
+C:\Users\andre\source\repos\Simulator\Comm\bin\Debug\DataModel.dll
+C:\Users\andre\source\repos\Simulator\Comm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\source\repos\Simulator\Comm\bin\Debug\DataModel.pdb
+C:\Users\andre\source\repos\Simulator\Comm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\source\repos\Simulator\Comm\obj\Debug\Comm.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Simulator\Comm\obj\Debug\Comm.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Simulator\Comm\obj\Debug\Comm.csproj.CopyComplete
+C:\Users\andre\source\repos\Simulator\Comm\obj\Debug\Comm.dll
+C:\Users\andre\source\repos\Simulator\Comm\obj\Debug\Comm.pdb
